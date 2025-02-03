@@ -1,7 +1,28 @@
-## Hi there 👋
+<h1>Hi, I'm Branley!</h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- [Active Directory Home Lab](https://github.com/branley/LABURL)
+- [Python KeyLogger](https://github.com/branley/LABURL)
+  
+<h2>📺 Tutorials for Labs</h2>
+
+- [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+ <h2>📝 Certifications</h2>
+
+- [CompTIA security+](picture link)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="BranleyMinaya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/branley-minaya/
 
 <!--
-**Branley/Branley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
