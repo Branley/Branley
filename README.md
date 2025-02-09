@@ -9,10 +9,10 @@
  <h2>📝 Certifications</h2>
 
 - [CompTIA Security+](https://i.imgur.com/opYXlGW.png)
-- [Technical Certificate: Cybersecurity](https://i.imgur.com/8oTTcS6.jpeg)
-- [Technical Certificate: Network Support](https://i.imgur.com/G3Ly2uG.jpeg)
-- [Technical Certificate: Network Administration](https://i.imgur.com/pxHEVqo.jpeg)
-- [Technical Certificate: Linux Enterprise Server Administration](https://i.imgur.com/LZ9HnXK.jpeg)
+- [Technical Certificate: Cybersecurity](https://i.imgur.com/viqwPim.jpeg)
+- [Technical Certificate: Network Support](https://i.imgur.com/ztPKyur.jpeg)
+- [Technical Certificate: Network Administration](https://i.imgur.com/oiOZKz6.jpeg)
+- [Technical Certificate: Linux Enterprise Server Administration](https://i.imgur.com/jZ49Zgm.jpeg)
 
 
 <h2> 🤳 Connect with me:</h2>
