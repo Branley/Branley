@@ -6,10 +6,6 @@
 - [Python KeyLogger](https://github.com/Branley/Python-Keylogger)
 - [Penetration Testing Report](https://1drv.ms/w/c/559950FDF56FBC5E/AV68b_X9UJkggFVVFwAAAAA?e=PFmtca)
   
-<h2>📺 Tutorials for Labs</h2>
-
-- [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
  <h2>📝 Certifications</h2>
 
 - [CompTIA Security+](https://i.imgur.com/opYXlGW.png)
