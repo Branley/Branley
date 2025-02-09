@@ -4,6 +4,7 @@
 
 - [Active Directory Home Lab](https://github.com/Branley/ActiveDirectoryHomeLab)
 - [Python KeyLogger](https://github.com/Branley/Python-Keylogger)
+- [Penetration Testing Report](https://1drv.ms/w/c/559950FDF56FBC5E/AV68b_X9UJkggFVVFwAAAAA?e=PFmtca)
   
 <h2>📺 Tutorials for Labs</h2>
 
