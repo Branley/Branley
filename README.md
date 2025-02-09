@@ -11,7 +11,7 @@
 
  <h2>📝 Certifications</h2>
 
-- [CompTIA security+](picture link)
+- [CompTIA Security+](https://i.imgur.com/opYXlGW.png)
 
 
 <h2> 🤳 Connect with me:</h2>
